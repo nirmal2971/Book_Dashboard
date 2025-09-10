@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Non-fiction",
+      "year": 2018,
+      "status": "Issued"
+    },
+    {
+      "id": "4",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-fi",
+      "year": 1965,
+      "status": "Available"
+    },
+    {
+      "id": "5",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-fiction",
+      "year": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": "6",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fiction",
+      "year": 1937,
+      "status": "Available"
+    },
+    {
+      "id": "7",
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "genre": "Sci-fi",
+      "year": 2011,
+      "status": "Issued"
+    },
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "genre": "Sci-fi",
+      "year": 2011,
+      "status": "Issued",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Fiction",
+      "year": 1949,
+      "status": "Available"
+    },
+    {
+      "id": "10",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Non-fiction",
+      "year": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": "11",
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "genre": "Sci-fi",
+      "year": 1951,
+      "status": "Available"
+    },
+    {
+      "id": "12",
+      "title": "Beowulf",
+      "author": "Unknown",
+      "genre": "Fiction",
+      "year": 1000,
+      "status": "Available"
+    },
+    {
+      "id": "13",
+      "title": "Elon Musk",
+      "author": "Ashlee Vance",
+      "genre": "Biography",
+      "year": 2015,
+      "status": "Issued"
+    },
+    {
+      "id": "14",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Fiction",
+      "year": 1932,
+      "status": "Available"
+    },
+    {
+      "id": "15",
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "genre": "Sci-fi",
+      "year": 1984,
+      "status": "Issued"
+    }
+  ]
+}
