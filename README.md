@@ -1,12 +1,56 @@
-# React + Vite
+# Book Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Book Management Dashboard** built with **React**, **React Query**, and **Material-UI**. This app allows users to **add, edit, delete, and filter books** with smooth UI interactions and notifications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **CRUD Operations**  
+  - Add new books  
+  - Edit existing books  
+  - Delete books with confirmation  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Search & Filters**  
+  - Search by title or author  
+  - Filter by genre and status  
+
+- **Pagination**  
+  - Client-side pagination for better performance  
+
+- **Notifications**  
+  - Success and error notifications via Material-UI Snackbars  
+
+- **Responsive Design**  
+  - Works well on desktop, tablet, and mobile  
+
+- **Theming & UI**  
+  - Light and dark mode with gradients  
+  - Rounded cards and smooth hover effects  
+
+---
+
+## Technologies Used
+
+- **React** (Functional components & hooks)  
+- **React Query** for data fetching and caching  
+- **React Hook Form** for form handling  
+- **Material-UI (MUI)** for UI components  
+- **Axios** for API requests  
+- **JSON Server** for backend  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js >= 16.x  
+- npm or yarn  
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/book-management-app.git
+cd book-management-app
+npm install
